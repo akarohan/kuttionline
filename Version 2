@@ -1,0 +1,6 @@
+Kutti V2
+
+A major multiplayer overhaul of Kutti, migrating gameplay to Firebase Realtime Database for real-time room and game synchronization.
+Added Original Kutti and Blind Kutti, improved lobby and multiplayer state handling, 6-character room codes, live room validation, spectator/View Game mode, session REJOIN support, player presence tracking, and safer room lifecycle/cleanup to prevent abandoned room memberships.
+Updated the UI with the new dark maroon + gold theme, improved entry/lobby screens, game-state synchronization, and various gameplay and navigation improvements.
+Built with Kotlin + Jetpack Compose + Firebase Realtime Database.
